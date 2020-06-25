@@ -1,58 +1,8 @@
+.. _welcome-to-the-hellmouth:
+
 Welcome to the Hellmouth
 ========================
 
-Welcome to SC101
-----------------
-* Talk about what a syllabus is
-* Go over our syllabus
-
-Class One
----------
-
-The goal of the first assignment is to:
-
-* Practice taking notes and turning that into an outline so you write a better paper, faster
-* Practice writing paragraphs
-
-Assignment One
---------------
-
-* Select five characters in the episode we are about to watch
-* Write one paragraph on each character
-* No need for introduction, conclusion, or transition.
-* Structure of each paragraph:
-
-  * Purpose sentence (Name, who are they, what stereotype/purpose do they hold)
-  * Analysis (Talk more about the purpose/motivation of character)
-  * Supporting evidence (Support)
-
-* In each paragraph:
-
-  * What role is that character set up for?
-  * What stereo-type?
-  * Have you found people fix stereo types like this in school?
-  * Shoot for about five sentences
-
-How to Make Assignment One Easy
--------------------------------
-
-* Outlining
-
-  * Purpose is to save time and effort - NOT add more work
-  * You know what you are writing about, write quick notes about
-    the characters as you watch. Then the paragraphs should practically write themselves.
-
-Class 2
--------
-
-Watch "Welcome to the Hellmouth"
-Start discussion
-
-Class 3
--------
-
-Discussion Questions
-~~~~~~~~~~~~~~~~~~~~
 
 * Why are shows often centered around high school?
 * How was the opening scene with the girl and guy breaking into the school
@@ -86,3 +36,5 @@ Discussion Questions
 * Confidence
 * Finding your place in the world
 * Feeling "trapped" with your place
+
+:ref:`paragraph-writing`

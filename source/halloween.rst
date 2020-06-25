@@ -2,6 +2,7 @@ Halloween
 ---------
 
 Why, and what are the consequences?
+
 * Why does Willow want to be a ghost?
 * Why does Xander want to be an army man?
 * Why does Buffy want to be a princess? (Spend all time being beautiful)
@@ -10,8 +11,9 @@ Is it ok to shoot "monsters"? If they are children? What if they are people that
 could be good?
 
 Whole point of Halloween "Come as you aren't", why is that popular?
- - Why do people like dressing up in costumes?
- - Why do people like living a different life?
+
+* Why do people like dressing up in costumes?
+* Why do people like living a different life?
 
 What alternative life would you like to try?
 Why don't we live that life?
