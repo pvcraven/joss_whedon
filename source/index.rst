@@ -9,7 +9,7 @@ Welcome to Joss Whedon Productions
 
 .. toctree::
    :maxdepth: 2
-   :caption: Buffy
+   :caption: Buffy Episodes
 
    welcome_to_the_hellmouth
    out_of_sight_out_of_mind
@@ -17,7 +17,7 @@ Welcome to Joss Whedon Productions
 
 .. toctree::
    :maxdepth: 2
-   :caption: Firefly
+   :caption: Firefly Episodes
 
    serenity
    jaynestown
@@ -25,7 +25,7 @@ Welcome to Joss Whedon Productions
 
 .. toctree::
    :maxdepth: 2
-   :caption: Dollhouse
+   :caption: Dollhouse Episodes
 
    ghost
 
@@ -34,6 +34,7 @@ Welcome to Joss Whedon Productions
    :caption: Assignments
 
    assignment_1
+   assignment_2
 
 
 

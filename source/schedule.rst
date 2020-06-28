@@ -1,3 +1,8 @@
+Syllabus
+========
+
+The course syllabus is available here: https://syllabi.readthedocs.io/en/latest/SC-101.html
+
 Schedule
 ========
 

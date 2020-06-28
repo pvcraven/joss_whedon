@@ -1,7 +1,7 @@
 .. _paragraph-writing:
 
-Paragraph Writing
-=================
+Paragraph Writing - Buffy Characters
+====================================
 
 The goal of the first assignment is to:
 
@@ -38,3 +38,12 @@ How to Make Assignment One Easy
   * Purpose is to save time and effort - NOT add more work
   * You know what you are writing about, write quick notes about
     the characters as you watch. Then the paragraphs should practically write themselves.
+
+Due Date
+--------
+
+This assignment, and many of our others, will go through a revision phase. The
+ability to revise your writing is an important part of writing well.
+
+Turn in this assignment by Friday 8/28. By Tuesday, Robert will review the assignment
+and provide feedback. Final turn-in should be done by Friday 9/4.
