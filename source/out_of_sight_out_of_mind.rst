@@ -46,5 +46,3 @@ Trivia
   'can you say 'gulp'' like shaggy
 
 
-During the episone
-

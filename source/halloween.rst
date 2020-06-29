@@ -1,32 +1,35 @@
+.. _halloween:
+
 Halloween
----------
+=========
 
-Why, and what are the consequences?
+Discuss, why did these characters choose their costume? What do you think their
+reasoning was? Then, what was the consequence of being that way? How does this
+mirror their real life?
 
-* Why does Willow want to be a ghost?
-* Why does Xander want to be an army man?
-* Why does Buffy want to be a princess? (Spend all time being beautiful)
+* Willow - Ghost
+* Xander - Army man
+* Buffy - Princess
 
-Is it ok to shoot "monsters"? If they are children? What if they are people that
-could be good?
+Normally we just kill the monsters in movies/shows. Here we can't because the
+monsters are actual kids. How does this mirror killing, or even just striking
+back against the 'monsters' we face in our own lives?
 
-Whole point of Halloween "Come as you aren't", why is that popular?
+The whole point of Halloween is "come as you aren't."
 
-* Why do people like dressing up in costumes?
-* Why do people like living a different life?
+* Why is this so popular?
+* Why do people want to be someone they aren't?
+* What alternative life would you like to try?
+* What keeps them from being that person they aren't?
 
-What alternative life would you like to try?
-Why don't we live that life?
+Trivia, when Oz says "Why can't I meet a nice girl like that," he'll later
+meet Willow again.
 
-"Why can't I meet a nice girl like that"
-
-Research: Who is Janus the Greek god?
-
-Writing prompt:
+Research: Who is `Janus the Greek god <https://www.greekmythology.com/Myths/Roman/Janus/janus.html>`_?
 
 "Be careful what you wish for" says Ethan.
-How does that saying relate to this show, also relate to real life?
 
+* How does that saying relate to this show, also relate to real life?
 * Talk about the quote, and how that relates to what we often do as humans when
   we wish.
 * Pull examples from the show and how it relates to the quote

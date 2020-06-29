@@ -14,6 +14,8 @@ Welcome to Joss Whedon Productions
    welcome_to_the_hellmouth
    out_of_sight_out_of_mind
    halloween
+   innocence
+   lie_to_me
 
 .. toctree::
    :maxdepth: 2
@@ -35,6 +37,7 @@ Welcome to Joss Whedon Productions
 
    assignment_1
    assignment_2
+   assignment_3
 
 
 
