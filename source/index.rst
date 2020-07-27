@@ -2,13 +2,13 @@ Welcome to Joss Whedon Productions
 ==================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Class Info
 
    schedule
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Buffy Episodes
 
    welcome_to_the_hellmouth
@@ -18,7 +18,7 @@ Welcome to Joss Whedon Productions
    lie_to_me
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Firefly Episodes
 
    serenity
@@ -26,13 +26,15 @@ Welcome to Joss Whedon Productions
    out_of_gas
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Dollhouse Episodes
 
    ghost
 
+.. _assignments:
+
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Assignments
 
    assignment_1
