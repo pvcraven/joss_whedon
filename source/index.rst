@@ -16,6 +16,8 @@ Welcome to Joss Whedon Productions
    halloween
    innocence
    lie_to_me
+   the_wish
+   something_blue
 
 .. toctree::
    :maxdepth: 1
