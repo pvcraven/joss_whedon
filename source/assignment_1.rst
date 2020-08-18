@@ -27,7 +27,7 @@ Watch and discuss :ref:`welcome-to-the-hellmouth`.
 
   * What role is that character set up for?
   * What stereo-type?
-  * Have you found people fix stereo types like this in school?
+  * Have you found people fit stereo types like this in school?
   * Shoot for about five sentences
 
 How to Make Assignment One Easy
