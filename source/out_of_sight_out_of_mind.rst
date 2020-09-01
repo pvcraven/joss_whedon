@@ -11,6 +11,29 @@ people in high school.
 
 Before watching this episode, read through the :ref:`short-essay` assignment.
 
+Story Arc
+---------
+
+The Harvest - Basically, there's a "master" vampire who is drawing strength from
+his minions. They go and attack people at the Bronze, but Buffy and the gang
+(later called the "Scooby Gang" come and save the day.
+Jesse, Xander's friend, gets turned into a vampire and is killed.
+Xander now really hates vampires.
+
+Witch - Buffy tries to become a cheerleader. She doesn't make it, but cheerleaders
+start having 'accidents'. Eventually we find Amy, a witch, is causing the accidents
+to get on the cheerleading squad. In a twist, Amy is actually her mother Catherine, who
+switched bodies with her in order to relive her 'glory' days.
+
+Teacher's Pet - Dr Gregory from the school is killed by decapitation. The
+substitute teacher, Ms. French, is quite attractive. She turns out to be a
+praying mantis in disguise and almost kills Xander.
+
+Never Kill a Boy on the First Date - Buffy tries to go on a date with Owen. Her
+responsibilities as a vampire slayer keep getting in the way. Owen eventually
+finds out Buffy's real job. He likes it, but from his attitude Buffy can tell
+he'll end up getting himself killed.
+
 Discussion Points
 -----------------
 

@@ -13,13 +13,20 @@ Pick one question to write about:
 * Explain/contrast the difference between Buffy, Cordelia, and Marcy's experience
   in being popular?
 
-While watching the episode start writing down notes on both these points that
-you pick up from watching. During discussion, do this same thing. Pick one, organize
-your notes.
+Outline your essay.
+During or after the episode start write down notes related to your
+topic. During class discussion, do this same thing.
 
 Group related items together. Make into an outline. Each group a paragraph.
-Take the strongest four groupings. They'll be four paragraphs.
+Take the strongest four groupings. They'll be the four main paragraphs you put
+in the essay.
 
-In the intro paragraph, introduce the show/episode. Quickly outline what you are
-about to cover, then last sentence is thesis.
+Add an intro paragraph ahead of the four main paragraphs. Use it to
+introduce the show/episode. Then quickly outline what you are
+about to cover. Make sure your last sentence is the thesis.
+
+Add a final sixth paragraph that is your conclusion. Do NOT introduce new
+topics in the conclusion. Look back at your main points, and tie them together.
+Don't just restate your four main paragraph points, but relate them together
+into a final push to your conclusion. Make sure that conclusion answers your thesis.
 
