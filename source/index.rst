@@ -12,6 +12,7 @@ Welcome to Joss Whedon Productions
    :caption: Buffy Episodes
 
    welcome_to_the_hellmouth
+   buffy_arc_01
    out_of_sight_out_of_mind
    halloween
    innocence
