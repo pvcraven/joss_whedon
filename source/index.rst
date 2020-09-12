@@ -11,14 +11,16 @@ Welcome to Joss Whedon Productions
    :maxdepth: 1
    :caption: Buffy Episodes
 
-   welcome_to_the_hellmouth
-   buffy_arc_01
-   out_of_sight_out_of_mind
-   halloween
-   innocence
-   lie_to_me
-   the_wish
-   something_blue
+   buffy/welcome_to_the_hellmouth
+   buffy/buffy_arc_01
+   buffy/out_of_sight_out_of_mind
+   buffy/buffy_arc_02
+   buffy/halloween
+   buffy/buffy_arc_03
+   buffy/innocence
+   buffy/lie_to_me
+   buffy/the_wish
+   buffy/something_blue
 
 .. toctree::
    :maxdepth: 1
