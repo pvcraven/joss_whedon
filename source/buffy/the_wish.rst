@@ -1,5 +1,7 @@
-The Wish
-========
+.. _the-wish:
+
+S03E09 - The Wish
+=================
 
 Get up to date. Xander was dating Cordillia.
 Cordillia had committed social suicide by dating Xander.

@@ -1,7 +1,7 @@
 .. _innocence:
 
-Innocence
-=========
+S02E14 - Innocence
+==================
 
 Before watching, make sure you are caught up on the plot.
 

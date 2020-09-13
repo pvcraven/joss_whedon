@@ -1,7 +1,7 @@
 .. _out-of-sight:
 
-Out of Sight, Out of Mind
-=========================
+S01E11 Out of Sight, Out of Mind
+================================
 
 Buffy is about taking "monsters" you encounter in high school and making them real
 life monsters that Buffy and the Scooby gang fight.

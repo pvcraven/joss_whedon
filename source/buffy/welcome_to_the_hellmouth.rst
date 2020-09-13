@@ -1,7 +1,7 @@
 .. _welcome-to-the-hellmouth:
 
-Welcome to the Hellmouth
-========================
+S01E01 Welcome to the Hellmouth
+===============================
 
 Take a look at these discussion questions before watching "Welcome to the Hellmouth."
 Also take a look at the assignment :ref:`paragraph-writing`.
