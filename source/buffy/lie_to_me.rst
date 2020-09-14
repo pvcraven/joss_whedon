@@ -1,7 +1,7 @@
 .. _lie_to_me:
 
-Lie to Me
-=========
+S02E07 - Lie to Me
+==================
 
 Before watching this episode, make sure you've followed the plot enough to know
 who Druscilla and Spike are.

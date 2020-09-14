@@ -17,8 +17,8 @@ Welcome to Joss Whedon Productions
    buffy/buffy_arc_02
    buffy/halloween
    buffy/buffy_arc_03
-   buffy/innocence
    buffy/lie_to_me
+   buffy/innocence
    buffy/the_wish
    buffy/something_blue
 

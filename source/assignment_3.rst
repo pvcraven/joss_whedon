@@ -1,7 +1,7 @@
 .. _assignment_3:
 
-Assignment 3
-============
+Short Essay - Assignment 3
+==========================
 
 For this assignment, we'll be outlining and writing a short essay.
 
