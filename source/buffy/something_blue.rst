@@ -1,7 +1,7 @@
 .. _something_blue:
 
-Something Blue
-==============
+S04E09 - Something Blue
+=======================
 
 Willow is upset that boyfriend Oz has left.
 Explain what happened to Spike.

@@ -48,7 +48,7 @@ part as well.
 * The show works a lot with the confidence people have in themselves.
   What is the difference between the self-confidence people show in Buffy? How
   does it differ depending on the person, and the situation? Where is Buffy
-  confident? Where is she not? Is Cordillia as confident as she lets on?
+  confident? Where is she not? Is Cordelia as confident as she lets on?
 * Another theme in this show is finding your place in the world. What factors
   make that so difficult?
 

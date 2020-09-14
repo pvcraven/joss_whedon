@@ -40,7 +40,7 @@ was activated. So now there's two.
 Episode S02E10 – What's My Line Pt 2
 ------------------------------------
 
-Xander and Cordillia fight a lot. Then the kiss. They keep their relationship
+Xander and Cordelia fight a lot. Then the kiss. They keep their relationship
 secret.
 
 Drusilla gets cured, but Spike is injured and crushed under the rubble ofa building.

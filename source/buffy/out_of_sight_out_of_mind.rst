@@ -27,7 +27,7 @@ Discussion Points
 * 'Have a nice summer?' commend in yearbook -- kiss of death.
 * "People perceived Marcie as invisible, so she became so"
 * Not getting called on in class
-* Cordilia - "I know we have differences and all, with you being weird and hanging out with
+* Cordelia - "I know we have differences and all, with you being weird and hanging out with
   these losers"
 * "It's all about me"
 * I don't care what it is, just get rid of it.
