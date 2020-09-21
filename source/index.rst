@@ -20,6 +20,7 @@ Welcome to Joss Whedon Productions
    buffy/lie_to_me
    buffy/innocence
    buffy/the_wish
+   buffy/earshot
    buffy/something_blue
 
 .. toctree::
