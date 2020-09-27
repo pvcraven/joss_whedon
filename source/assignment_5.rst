@@ -1,5 +1,5 @@
-Assignment 4 - First Year
-=========================
+First Years - Assignment 4
+==========================
 
 This episode of Buffy delved into the situations first-year students, Buffy,
 faced. As first-year students you have expectations when arriving on campus and
