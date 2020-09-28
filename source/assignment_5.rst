@@ -1,3 +1,5 @@
+.. _assignment-five:
+
 First Years - Assignment 5
 ==========================
 

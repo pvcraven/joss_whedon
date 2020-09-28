@@ -21,6 +21,7 @@ Welcome to Joss Whedon Productions
    buffy/innocence
    buffy/the_wish
    buffy/earshot
+   buffy/the_freshman
    buffy/something_blue
 
 .. toctree::
