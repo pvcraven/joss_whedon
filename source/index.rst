@@ -49,3 +49,4 @@ Welcome to Joss Whedon Productions
    assignment_3
    assignment_4
    assignment_5
+   assignment_6
