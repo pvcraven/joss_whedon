@@ -30,6 +30,8 @@ Important points to note, leading up to this.
 * Anya and Xander just got engaged.
 * Dawn recently snuck out of the house to cruise around with some boys that liked
   her. But they were vampires.
+* In a prior episode, Tara's abusive family tried to get her to leave and go back home.
+  The Scooby gang 'adopted' her and made her part of their family.
 
 From the Episode
 ----------------
@@ -54,6 +56,7 @@ From the Episode
 
 * Spike doesn't want to talk about his feelings for Buffy
 
+* As
 Lyrics for all songs are available here:
 
 https://buffy.fandom.com/wiki/Once_More,_with_Feeling/Lyrics
@@ -63,8 +66,45 @@ Themes
 
 Relationships (romantic, platonic, family) take maintenance. Not every relationship
 is going to survive this episode. Lack of communication is a common theme here.
-When secrets
-finally come out, it can be too late to heal the damage.
+When secrets finally come out, it can be too late to heal the damage.
 
-Discuss, what leads to a healthy relationship? How does communication play a part
-of that?
+Discuss
+
+* What causes a person to just 'go through the motions?'
+
+  * How do you get out of that mindset?
+
+* What leads to a healthy relationship? How does communication play a part
+  of that?
+* Giles feels the need to leave Buffy, so that she's forced to grow and be independent.
+
+  * In what way to our parents/mentors stop us from growing?
+  * What are the risks of letting our kids go off on their own?
+  * What is the best way of striking the balance between helping a twenty-year-old,
+    and letting them grow on their own?
+
+* Tara's only family is now the Scooby gang.
+
+  * Should she leave Willow?
+  * If she stays, how can she enforce boundaries?
+  * If she leaves, does she have a family?
+  * If she leaves Willow, can she stay as part of that family?
+  * Should Willow be cast out of the group?
+
+* "The hardest thing in this world is to live in it."
+
+  * What does this mean?
+  * Do you agree?
+
+* What do the lyrics below try to say?
+
+```
+Life's not a song
+Life isn't bliss
+Life is just this
+It's living
+You'll get along
+The pain that you feel
+You only can heal
+By living
+```
