@@ -23,6 +23,7 @@ Welcome to Joss Whedon Productions
    buffy/earshot
    buffy/the_freshman
    buffy/something_blue
+   buffy/once_more_with_feeling
 
 .. toctree::
    :maxdepth: 1
@@ -50,3 +51,4 @@ Welcome to Joss Whedon Productions
    assignment_4
    assignment_5
    assignment_6
+   assignment_7
